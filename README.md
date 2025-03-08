@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leafbuds
-- 👀 I’m interested in ...Roblox Development
-- 🌱 I’m currently learning ...Analytics & Management
-- 💞️ I’m looking to collaborate on ...Existing Projects
-- 📫 How to reach me ...Discord @232626623839469569
-- 😄 Pronouns: ...He/Him 
-- ⚡ Fun fact: ...Your favorite da hood remake uses MY code!! :)
+- 👀 I’m interested in Roblox Development
+- 🌱 I’m currently learning Analytics & Management
+- 💞️ I’m looking to collaborate on Existing Projects
+- 📫 How to reach me Discord @232626623839469569
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Your favorite da hood remake uses MY code!! :)
